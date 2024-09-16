@@ -41,7 +41,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-clone https://github.com/Mansianwala/Task-for-app.git
+git clone [https://github.com/Mansianwala/Task-for-app.git](https://github.com/Mansianwala/Task-for-app)
 ```
 
 ### Install packages
