@@ -1,4 +1,4 @@
-# ChatWave
+# Task-for-app
 Real Time Messaging App
 
 # ChatWave: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
